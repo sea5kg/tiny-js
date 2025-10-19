@@ -1,3 +1,10 @@
 .vscode/
 build/
 build.*/
+
+/libtiny-js.a
+/tiny-js-cli
+/tiny-js-tests
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
